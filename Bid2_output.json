@@ -1,0 +1,70 @@
+{
+  "Bid Number": "BPM044557",
+  "Title": "Dell Laptops w/Extended Warranty",
+  "Due Date": "06/10/2024 02:00 PM EDT",
+  "Bid Submission Type": "Electronic submission via eMaryland Marketplace Advantage (eMMA)",
+  "Term of Bid": "Proposals must be valid for at least 90 days after the set due date.",
+  "Pre Bid Meeting": null,
+  "Installation": "Includes Custom Factory Integration (CFI) such as a Custom Asset Report, Consigned Asset Tag, and setup for Windows AutoPilot.",
+  "Bid Bond Requirement": null,
+  "Delivery Date": "Delivery within 45 days of Award.",
+  "Payment Terms": null,
+  "Any Additional Documentation Required": [
+    "Mercury Affidavit",
+    "Contract Affidavit",
+    "Letter of Authorization (LOA) from the Manufacturer or Distributor (if requested)"
+  ],
+  "MFG for Registration": "Dell",
+  "Contract or Cooperative to use": "Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007",
+  "Model_no": [
+    "Latitude 5550",
+    "WD22TB4"
+  ],
+  "Part_no": [
+    "SI# CC7802",
+    "210-BLYZ",
+    "WD22TB4"
+  ],
+  "Product": "30 Dell Latitude 5550 laptops (SI# CC7802), 30 Dell Thunderbolt 4 Docks (WD22TB4), and a 3-year extended hardware warranty for all laptops.",
+  "contact_info": {
+    "name": "Tamaira Hawkins",
+    "email": "thawkins@treasurer.state.md.us",
+    "phone": "410-260-7533"
+  },
+  "company_name": "MD State Treasurer's Office",
+  "Bid Summary": "The MD State Treasurer's Office requires a refresh of laptops and is seeking to purchase 30 Dell Latitude 5550 laptops and 30 Dell Thunderbolt 4 Docks, along with a 3-year extended warranty for all machines. This is a Small Business Reserve (SBR) procurement limited to Master Contractors under the Desktop, Laptop and Tablet 2015 Master Contract (060B5400007). Responses must be submitted electronically via the eMaryland Marketplace Advantage (eMMA) system.",
+  "Product Specification": {
+    "Laptops": {
+      "Quantity": 30,
+      "Name": "Dell Latitude 5550",
+      "Part_Number": "SI# CC7802",
+      "Base_SKU": "210-BLYZ",
+      "Requirement": "Must be Microsoft Copilot ready",
+      "Processor": "Intel Core Ultra 5 125U (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo)",
+      "Operating System": "Windows 11 Pro",
+      "Memory": "16 GB (2 x 8 GB), DDR5, 5600 MT/s",
+      "Storage": "256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD",
+      "Display": "15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit",
+      "Graphics": "Integrated Intel graphics",
+      "Keyboard": "English US backlit AI hotkey keyboard with numeric keypad, 99-key",
+      "Wireless": "Intel Wi-Fi 6E AX211, 2x2, 802.11ax, Bluetooth 5.3",
+      "Camera": "FHD HDR RGB Camera, TNR, Camera Shutter, Microphone",
+      "Battery": "3-cell, 54 Wh, ExpressCharge Capable",
+      "Power": "65W AC adapter, USB Type-C",
+      "Management": "Intel vPro Management Disabled",
+      "Certifications": "ENERGY STAR Qualified, EPEAT 2018 Registered (Gold)"
+    },
+    "Docks": {
+      "Quantity": 30,
+      "Name": "Dell Thunderbolt 4 Dock",
+      "Model_Number": "WD22TB4"
+    },
+    "Warranty": {
+      "Type": "Dell Limited Hardware Warranty Extended",
+      "Duration": "3 Years",
+      "Applies_To": "All purchased machines",
+      "Deliverable": "Warranty certificate or Affidavit to be presented upon award",
+      "Term": "Starts on date of delivery"
+    }
+  }
+}

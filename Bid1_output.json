@@ -1,0 +1,178 @@
+{
+  "Bid Number": "JA-207652",
+  "Title": "Student and Staff Computing Devices",
+  "Due Date": "July 9, 2024 at 2:00 PM CST",
+  "Bid Submission Type": "Online via iSupplier portal or Manual Submission (Mail/FedEx/UPS)",
+  "Term of Bid": "Three (3) year agreement with two (2) successive one (1) year extensions, not to exceed five (5) years total.",
+  "Pre Bid Meeting": "June 10, 2024 at 2:00 PM CST via TEAMS",
+  "Installation": "All deliveries and deployments must incorporate white glove services, which include asset decaling, asset reporting, etching (for Laptops only), and delivery to varied locations. For Windows devices, autopilot enrollment is required. For Chromebooks, enrollment in Google Management is required.",
+  "Bid Bond Requirement": null,
+  "Delivery Date": "Quotes for different projects from awarded vendors will be requested starting in September of 2024.",
+  "Payment Terms": null,
+  "Any Additional Documentation Required": [
+    "Signed Addendum 1",
+    "Signed Addendum 2",
+    "Form 1295 - Certificate of Interested Parties",
+    "MWBE Forms",
+    "W9 Form",
+    "Factory-authorized repair and maintenance certifications (for resellers)",
+    "Additional warranty information and pricing can be submitted as an attachment"
+  ],
+  "MFG for Registration": null,
+  "Contract or Cooperative to use": "Dallas ISD is a member of the Educational Purchasing Cooperative of North Texas (EPCNT) and the Central Texas Purchasing Alliance (CTPA), and other governmental entities may be eligible to purchase under the awarded contract.",
+  "Model_no": null,
+  "Part_no": null,
+  "Product": "Student and staff computing devices, including laptops, desktops, tablet devices, display monitors, and related accessories.",
+  "contact_info": {
+    "name": "JASMINE ALZATE",
+    "title": "Buyer",
+    "email": "JALZATE@dallasisd.org",
+    "phone": "972-925-4100"
+  },
+  "company_name": "Dallas Independent School District (Dallas ISD)",
+  "Bid Summary": "This Request for Proposal (RFP) is for a multi-year contract for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Dallas ISD intends to award contracts to single or multiple vendors per device category. The specifications provided are minimum hardware requirements. Awarded vendors will be requested to provide competitive quotes for various projects over the life of the contract. Required services include white glove deployment, which involves asset decaling, reporting, etching for laptops, and specific software setup like Autopilot for Windows and Google Management for Chromebooks. The contract term is for three years with two optional one-year extensions.",
+  "Product Specification": {
+    "Student Devices": {
+      "Tier 1 Small Student Chromebook Laptop": {
+        "Type": "Touch",
+        "Management": "Enterprise Management Ready",
+        "Processor": "Intel Celeron Processor N100 or equivalent",
+        "Display": "Minimum 11.6\" diagonal, Multi-touch",
+        "Camera": "720p minimum",
+        "Resolution": "1366 x 768",
+        "Memory": "Minimum 8GB DDR5",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Power Supply": "Type C, 65W",
+        "Battery Life": "Minimum 10 hours",
+        "Ports": "Minimum 2 USB 3.0; type C; 1 headphone/microphone combo",
+        "Storage": "64 GB eMMC",
+        "OS": "Chrome O/S License Required",
+        "Warranty": "1-year minimum"
+      },
+      "Tier 2 Large Student Chromebook Laptop": {
+        "Type": "Non-Touch",
+        "Management": "Enterprise Management Ready",
+        "Processor": "Intel Celeron Processor N100 or equivalent",
+        "Display": "Minimum 14\" diagonal, Non-Touch",
+        "Camera": "720p minimum",
+        "Resolution": "1920-1080",
+        "Memory": "Minimum 8GB DDR5",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Power Supply": "Type C, 65W",
+        "Battery Life": "Minimum 10 Hours",
+        "Ports": "Minimum 2 USB 3.0; 1 Type C; HDMI; 1 headphone/microphone combo",
+        "Storage": "128 GB eMMC",
+        "OS": "Chrome O/S License Required",
+        "Warranty": "1-year minimum"
+      },
+      "Tier 3 Student Windows Laptop": {
+        "Management": "Enterprise Management Ready w/ Autopilot Enrollment",
+        "Processor": "Intel i5 13th Gen or equivalent",
+        "Display": "Minimum 13\" diagonal, Non-Touch",
+        "Camera": "720p minimum",
+        "Resolution": "1920-1080",
+        "Memory": "Minimum 16GB RAM DDR5",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Power Supply": "Type C, 65W",
+        "Battery Life": "Minimum 10 Hours",
+        "Ports": "Minimum 2 USB 3.0; 1 Type C; HDMI; 1 headphone/microphone combo",
+        "Storage": "256 GB NVMe SSD",
+        "OS": "Windows 11 Pro",
+        "Warranty": "3-year minimum"
+      },
+      "Student Tablet": {
+        "Management": "Enterprise Management Ready",
+        "Processor": "A13",
+        "Display": "10.2\" Retina, Multi-touch",
+        "Camera": "8MP Wide camera",
+        "Resolution": "2160 x 1620",
+        "Wireless": "802.11AC and Bluetooth 4.2",
+        "Power Supply": "Included",
+        "Battery Life": "Minimum 10 Hours",
+        "Ports": "1 headphone or other personal audio connection",
+        "Storage": "64 GB",
+        "OS": "iOS 17",
+        "Warranty": "1-year minimum"
+      }
+    },
+    "Staff Devices": {
+      "Tier 1 Staff Windows Basic Desktop": {
+        "Type": "All-in-One (AIO)",
+        "Management": "Enterprise Management Ready with Autopilot Enrollment",
+        "Processor": "Intel i5 Processor, 14th Gen or equivalent",
+        "Display": "Minimum 23.8\" diagonal screen, Touch Screen",
+        "Webcam": "Required",
+        "Memory": "Minimum 16GB RAM",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Ports": "Minimum 3 USB 3.0; 2 USB-C; 1 HDMI; 1 headphone/microphone combo",
+        "Storage": "512 GB NVMe SSD",
+        "OS": "Windows 11 Pro",
+        "Warranty": "3-year minimum"
+      },
+      "Tier 2 Staff Professional Desktop": {
+        "Type": "All-in-One (AIO)",
+        "Management": "Enterprise Management Ready",
+        "Processor": "Intel i7 Processor, 14th Gen or equivalent",
+        "Display": "Minimum 23.8\" diagonal screen, Touch Screen (optional)",
+        "Webcam": "Required",
+        "Memory": "Minimum 32GB DDR5 RAM",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Ports": "Minimum 3 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+        "Storage": "1 TB NVMe SSD",
+        "Video Card": "4 GB",
+        "OS": "Windows 11 Pro or Mac O/S",
+        "Warranty": "3-year minimum"
+      },
+      "Tier 1 Staff Basic Laptop": {
+        "Management": "Enterprise Management Ready",
+        "Processor": "Intel i5 CPU, 14th Gen or equivalent",
+        "Display": "Minimum 13\" diagonal screen",
+        "Camera": "1080p",
+        "Memory": "Minimum 16GB DDR5 RAM",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Power Supply": "USB Type C, 65W",
+        "Battery Life": "Minimum 10 hours",
+        "Ports": "Minimum 1 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+        "Storage": "512 GB NVMe SSD",
+        "OS": "Windows 11 or Mac OS",
+        "Warranty": "3-year minimum"
+      },
+      "Tier 2 Staff Laptop": {
+        "Management": "Enterprise Management Ready",
+        "Processor": "Intel i7 CPU, 14th Gen or equivalent",
+        "Display": "Minimum 13\" diagonal screen",
+        "Camera": "1080p",
+        "Resolution": "1920 X 1080 minimum",
+        "Memory": "Minimum 32GB DDR5 RAM",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Power Supply": "USB C, 65W",
+        "Battery Life": "Minimum 10 hours",
+        "Ports": "Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo",
+        "Storage": "1 TB NVMe SSD",
+        "OS": "Windows 11 or Mac OS",
+        "Warranty": "3-year minimum"
+      }
+    },
+    "Monitors": {
+      "Display Monitor - Touch": {
+        "Size": "Minimum 24\" diagonal screen",
+        "Resolution": "1920 X 1080",
+        "Ports": "USB 3.1 Hub (or higher)",
+        "Aspect Ratio": "16:9",
+        "Contrast": "3000:1",
+        "Warranty": "3-year minimum"
+      },
+      "Display Monitor - Non-Touch": {
+        "Size": "Minimum 24\" diagonal screen",
+        "Resolution": "1920 X 1080",
+        "Ports": "USB 3.1 Hub (or higher)",
+        "Warranty": "3-year minimum"
+      }
+    },
+    "General Requirements": {
+      "Warranty": "All warranties must be made by the OEM. Standard warranty is 1-year for student Chromebooks and 3 years for student/staff Windows laptops. Accidental Damage Protection is not required.",
+      "Equipment": "All equipment must be new and of the manufacturer's current model in production at time of order.",
+      "Repairs": "Warranty service, repairs, or replacements to be performed at no cost within 5 business days. A temporary hot swap device is expected if repair takes longer."
+    }
+  }
+}
